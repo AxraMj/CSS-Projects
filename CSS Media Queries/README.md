@@ -1,0 +1,1 @@
+This project demonstrates how to use CSS media queries to create responsive web layouts. The HTML and CSS provided in this project illustrate how to align an image and text side by side, with adjustments for different screen sizes using media queries.
